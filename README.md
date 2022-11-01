@@ -1,1 +1,1 @@
-# SQL-practice
+LeetCode SQL Challenge
